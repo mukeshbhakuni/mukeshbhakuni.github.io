@@ -2,20 +2,16 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
-### Category Name 2
+### [Project Details](https://docs.google.com/spreadsheets/d/1NY9zeFzRnt82lh-C0JcRfNSrIoQ9VASVA8fHoBmVrWQ/edit?usp=sharing)
+### [LinkedIn Profile](www.linkedin.com/in/mukesh-bhakuni-3ba486135)
+### [Git Profile](www.github.com/mukeshbhakuni)
+### [Resume]()
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
