@@ -1,12 +1,6 @@
 title: Mukesh Bhakuni # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Mobile: +91 7972086097
-  Email:  mukeshbhakuni590@gmail.com
-  <a href="https://www.linkedin.com/in/example/">LinkedIn Profile</a>
-  <a href="">Project Details</a>
-  <a href="">Git</a>
-  <a href="">Resume</a> 
+
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
