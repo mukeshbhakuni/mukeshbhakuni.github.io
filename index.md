@@ -2,7 +2,7 @@
 
 ---
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/black_noun_002_03536.jpg?raw=true"/>
 
 
 
