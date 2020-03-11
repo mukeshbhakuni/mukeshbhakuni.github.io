@@ -8,7 +8,7 @@
 
 ### [Project Details](https://docs.google.com/spreadsheets/d/1NY9zeFzRnt82lh-C0JcRfNSrIoQ9VASVA8fHoBmVrWQ/edit?usp=sharing)
 ### [LinkedIn](https://www.linkedin.com/in/mukesh-bhakuni-3ba486135)
-### [Resume](./pdf/Mukesh's Resume.pdf)
+<!-- ### [Resume](./pdf/Mukesh's Resume.pdf) -->
 
 
 
