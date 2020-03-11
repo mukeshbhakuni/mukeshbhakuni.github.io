@@ -2,7 +2,7 @@
 
 ---
 
-<img src="images/black_noun_002_03536.jpg?raw=true"/>
+<img src="images/plain_black.jpg?raw=true"/>
 
 #### Mobile: +91-7972086097 <br> Email:  mukeshbhakuni590@gmail.com
 
