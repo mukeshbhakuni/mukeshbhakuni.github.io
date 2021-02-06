@@ -1,9 +1,8 @@
 ---
 ---
 
-<p style="text-align: center;">
 
-<img align="center" src="images/plain_black.jpg?raw=true" width="250px" height="300px"/>
+<img src="images/plain_black.jpg?raw=true" width="250px" height="300px"/>
 
 
 #### Mobile: +91-7972086097 <br> Email:  mukeshbhakuni590@gmail.com
