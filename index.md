@@ -4,7 +4,7 @@
   <center>
     <img src="images/plain_black.jpg?raw=true" style="width:250px; height:350px; border-radius:3%;border:3px solid #000;">
   </center>
-  <br><br>
+  <br><br><br><br><br>
   <p>Mobile: +91 7972086097</p>
   <p>Email: mukeshbhakuni590@gmail.com</p>    
   <a href="http://bit.ly/2MIPXlp" target="_blank">Projects Details</a><br><br>
