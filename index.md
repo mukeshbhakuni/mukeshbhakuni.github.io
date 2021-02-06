@@ -6,13 +6,13 @@
 
 #### Mobile: +91-7972086097 <br> Email:  mukeshbhakuni590@gmail.com
 
-### <p style="text-align: center">[Project Details](https://docs.google.com/spreadsheets/d/1NY9zeFzRnt82lh-C0JcRfNSrIoQ9VASVA8fHoBmVrWQ/edit?usp=sharing)
+### [Project Details](https://docs.google.com/spreadsheets/d/1NY9zeFzRnt82lh-C0JcRfNSrIoQ9VASVA8fHoBmVrWQ/edit?usp=sharing)
 
-### <p style="text-align: center;">[LinkedIn](https://www.linkedin.com/in/mukesh-bhakuni-3ba486135)
+### [LinkedIn](https://www.linkedin.com/in/mukesh-bhakuni-3ba486135)
 
-### <p style="text-align: center;">[Resume](https://drive.google.com/file/d/1_dacMvHWtHIAcdyHBDCOd61EIx4u2vDL/view?usp=sharing)
+### [Resume](https://drive.google.com/file/d/1_dacMvHWtHIAcdyHBDCOd61EIx4u2vDL/view?usp=sharing)
 
-### <p style="text-align: center;">[GitHub](https://github.com/mukeshbhakuni)
+### [GitHub](https://github.com/mukeshbhakuni)
 
 
 
