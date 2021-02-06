@@ -1,4 +1,4 @@
-<div style="height:500px;text-align:center;background:#159957">
+<div style="height:500px;text-align:center;">
   <p> A passionate, dedicated and focused engineer. Seeking to leverage strong skills and increase productivity of organization and grow.
   <br><br>
   <center>
