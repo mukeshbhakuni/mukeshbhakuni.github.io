@@ -1,4 +1,4 @@
-<div style="height:500px;text-align:center;">
+<div style="height:500px;text-align:center;background:#159957">
   <p> A passionate, dedicated and focused engineer. Seeking to leverage strong skills and increase productivity of organization and grow.
   <br><br>
   <center>
@@ -12,6 +12,7 @@
   <br><br>
   <a href="https://github.com/mukeshbhakuni" target="_blank">GitHub</a><br><br>
   <a href="http://bit.ly/2LqJf2J" target="_blank">Resume</a><br><br>
-  </p>
+  <p>
+  </div>
 
 
