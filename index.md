@@ -1,6 +1,8 @@
 ---
 ---
 
+<p style="text-align: center;">
+
 <img align="center" src="images/plain_black.jpg?raw=true" width="250px" height="300px"/>
 
 
