@@ -13,6 +13,5 @@
   <a href="https://github.com/mukeshbhakuni" target="_blank">GitHub</a><br><br>
   <a href="http://bit.ly/2LqJf2J" target="_blank">Resume</a><br><br>
   <p>
-  </div>
 
 
