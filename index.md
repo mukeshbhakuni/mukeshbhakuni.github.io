@@ -2,7 +2,7 @@
   <p> A passionate, dedicated and focused engineer. Seeking to leverage strong skills and increase productivity of organization and grow.
   <br><br>
   <center>
-    <img src="images/plain_black.jpg?raw=true" style="width:250px; height:350px; border-radius:3%;border:3px solid #000;">
+    <img src="images/self.jpg?raw=true" style="width:250px; height:350px; border-radius:3%;border:3px solid #000;">
   </center>
   <br><br><br><br><br>
   <p>Mobile: +91 7972086097</p>
