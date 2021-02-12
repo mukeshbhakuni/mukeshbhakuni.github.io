@@ -2,5 +2,5 @@ title: Mukesh Bhakuni # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 
   
-theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
